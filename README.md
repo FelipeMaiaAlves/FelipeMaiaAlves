@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-- Data Analyst based in Brazil 🇧🇷
-- Passionate about Python, Java, and working with databases like MySQL and Oracle
-- Experienced in data analysis, visualization, and building dashboards with Power BI
+- Data Analyst based in Brazil 🇧🇷  
+- Passionate about Python, Java, and working with databases like MySQL and Oracle  
+- Experienced in data analysis, visualization, and building dashboards with Power BI  
 - Always eager to learn and collaborate on meaningful projects
 
 ---
@@ -17,14 +17,15 @@
 ## 🚀 Skills
 
 ### Programming Languages & Technologies
-- Python
-- Java
-- JavaScript
-- MySQL
-- Oracle
+- Python  
+- Java  
+- JavaScript  
+- MySQL  
+- Oracle  
+
 ### Tools
-- Power BI
-- Git & GitHub
+- Power BI  
+- Git & GitHub  
 
 ---
 
@@ -47,6 +48,9 @@
 | [ecommerce-sales-dashboard-en-US](https://github.com/FelipeMaiaAlves/ecommerce-sales-dashboard-en-US) | Sales analysis project with Python, MySQL and Power BI. | Python, MySQL, Power BI |
 | [basic-hr-system-en-US](https://github.com/FelipeMaiaAlves/basic-hr-system-en-US) | Simple Human Resources (HR) system developed in Java with connection to MySQL database. | Java, MySQL |
 | [illiteracy_brazil_dashboard-en-US](https://github.com/FelipeMaiaAlves/illiteracy_brazil_dashboard-en-US) | Exploratory and visual analysis of illiteracy in Brazil based on public data from IBGE. | Python |
+| [sales-forecast-dashboard](https://github.com/FelipeMaiaAlves/sales-forecast-dashboard) | Weekly sales forecasting using Python and Random Forest, including data simulation, feature engineering, and an interactive Power BI dashboard. | Python, Machine Learning, Power BI |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -59,7 +63,5 @@
 
 ## 📫 How to reach me
 
-- Email: felipemaia.alves10@gmail.com
+- Email: felipemaia.alves10@gmail.com  
 - LinkedIn: [felipe-maia-alves-76955b366](https://www.linkedin.com/in/felipe-maia-alves-76955b366/)
-
----
