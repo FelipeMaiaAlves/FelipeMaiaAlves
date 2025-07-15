@@ -48,7 +48,7 @@
 | [ecommerce-sales-dashboard-en-US](https://github.com/FelipeMaiaAlves/ecommerce-sales-dashboard-en-US) | Sales analysis project with Python, MySQL and Power BI. | Python, MySQL, Power BI |
 | [basic-hr-system-en-US](https://github.com/FelipeMaiaAlves/basic-hr-system-en-US) | Simple Human Resources (HR) system developed in Java with connection to MySQL database. | Java, MySQL |
 | [illiteracy_brazil_dashboard-en-US](https://github.com/FelipeMaiaAlves/illiteracy_brazil_dashboard-en-US) | Exploratory and visual analysis of illiteracy in Brazil based on public data from IBGE. | Python |
-| [sales-forecast-dashboard]([https://github.com/FelipeMaiaAlves/sales-forecast-dashboard](https://github.com/FelipeMaiaAlves/sales_forecast_dashboard.git) | Weekly sales forecasting using Python and Random Forest, including data simulation, feature engineering, and an interactive Power BI dashboard. | Python, Machine Learning, Power BI |
+| [sales-forecast-dashboard](https://github.com/FelipeMaiaAlves/sales_forecast_dashboard.git) | Weekly sales forecasting using Python and Random Forest, including data simulation, feature engineering, and an interactive Power BI dashboard. | Python, Machine Learning, Power BI |
 
 ---
 
